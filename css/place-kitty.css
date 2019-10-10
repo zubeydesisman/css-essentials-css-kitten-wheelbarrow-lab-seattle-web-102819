@@ -29,7 +29,7 @@
   left: 455px;
 }
 
- img[alt = "Kitty 5"] {
+ [alt = "Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
